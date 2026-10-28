@@ -29,11 +29,7 @@ Display the original, lower contrast, and higher contrast images.
 
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
-
-## Program Developed By:
-- **Name:**[mahendiran.M] 
-- **Register Number:**[212225230165]
-  ### Ex. No. 01
+### Ex. No. 01
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```
@@ -208,6 +204,7 @@ Cropped ROI
 <img width="466" height="370" alt="image" src="https://github.com/user-attachments/assets/8a1eb1fa-e4e2-4556-9093-0da176c2e16b" />
 Flipped Images
 <img width="472" height="377" alt="image" src="https://github.com/user-attachments/assets/a03a3ef1-d3ea-460c-a134-e399ef246463" />
+
 <img width="463" height="375" alt="image" src="https://github.com/user-attachments/assets/98c4f933-4c73-485c-9611-68329f022d31" />
 
 
