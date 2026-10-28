@@ -186,23 +186,34 @@ matrix2 =
 ## Output:
 Original Image
 <img width="447" height="352" alt="image" src="https://github.com/user-attachments/assets/4a701c26-9f85-4421-80ec-40acae18c7f2" />
+
 Image with Line
+
 <img width="447" height="350" alt="image" src="https://github.com/user-attachments/assets/14541a9b-5092-4d7e-8514-7c1626aacefc" />
 Image with Circle
+
 <img width="452" height="351" alt="image" src="https://github.com/user-attachments/assets/67f6e7bd-7c6d-4804-b7d2-7bd0091e5cb5" />
 Image with Rectangle
+
 <img width="472" height="376" alt="image" src="https://github.com/user-attachments/assets/96b32af8-7f51-4da6-b07f-c173ef048369" />
 Image with Text
+
 <img width="458" height="356" alt="image" src="https://github.com/user-attachments/assets/4b272fef-82da-4916-981d-9736511acf67" />
 HSV, Gray and YCrCb Images
+
 <img width="462" height="358" alt="image" src="https://github.com/user-attachments/assets/a9fb2e15-b347-4c11-9aa3-64a1cde55ada" />
+
 <img width="466" height="362" alt="image" src="https://github.com/user-attachments/assets/5d9b727c-44ab-4517-b929-2f5eb8a1c3bd" />
+
 <img width="467" height="370" alt="image" src="https://github.com/user-attachments/assets/aa9122af-1a1e-4cf5-824b-ffd0cb5c1548" />
 ```Resized Image```
+
 <img width="466" height="370" alt="image" src="https://github.com/user-attachments/assets/e71ef486-4605-4576-a413-20fbf4476736" />
 Cropped ROI
+
 <img width="466" height="370" alt="image" src="https://github.com/user-attachments/assets/8a1eb1fa-e4e2-4556-9093-0da176c2e16b" />
 Flipped Images
+
 <img width="472" height="377" alt="image" src="https://github.com/user-attachments/assets/a03a3ef1-d3ea-460c-a134-e399ef246463" />
 
 <img width="463" height="375" alt="image" src="https://github.com/user-attachments/assets/98c4f933-4c73-485c-9611-68329f022d31" />
